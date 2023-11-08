@@ -1,3 +1,4 @@
 Xin chao
 Hello World
 123
+EX2
