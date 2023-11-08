@@ -1,3 +1,5 @@
 Xin chao
 Hello World
 123
+EX2
+update Ex1
